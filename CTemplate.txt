@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main()
+{
+    //declaration
+    
+    //asm
+    _asm
+    {
+        //add asm code here
+    }
+    return 0;
+}
