@@ -1,0 +1,18 @@
+{
+	int i;
+	int j;
+	j=50;
+	while(true)
+	{
+		j=j-1;
+		if(j<0)
+			break;
+	}
+	if(i<0)
+		i=i+1;
+	i=-1;
+	
+	if(false)
+		i=0;
+	
+}
