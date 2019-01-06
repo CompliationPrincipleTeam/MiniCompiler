@@ -1,2 +1,2 @@
 # MiniCompiler
-运行方法，在main中的Global.init指定输入的源文件和输出文件即可。
+# 这个作废，新的代码仓库为TinyCCompiler,一切以它为准
